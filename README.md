@@ -9,5 +9,7 @@ With this you can send messages to your Discord relatively easily, via the RageM
 
 # To-Do:
 1.) Create a webhook on your discord and copy the WebHook-URL
+
 2.) Paste URL in script (string token)
+
 3.) Build your DLL and have fun.
