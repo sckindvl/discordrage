@@ -1,6 +1,3 @@
-# discordrage
-Discord-Bot System
-
 # Information:
 With this you can send messages to your Discord relatively easily, via the RageMP server
 
